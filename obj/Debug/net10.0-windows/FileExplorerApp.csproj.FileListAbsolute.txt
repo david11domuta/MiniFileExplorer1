@@ -1,0 +1,6 @@
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.Form1.resources
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\FileExplorerApp.csproj.GenerateResource.cache
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\FileExplorerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\FileExplorerApp.AssemblyInfoInputs.cache
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\FileExplorerApp.AssemblyInfo.cs
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\FileExplorerApp.csproj.CoreCompileInputs.cache

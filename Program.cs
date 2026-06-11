@@ -1,4 +1,4 @@
-namespace MiniFileExplorer1
+namespace Mini2
 {
     internal static class Program
     {

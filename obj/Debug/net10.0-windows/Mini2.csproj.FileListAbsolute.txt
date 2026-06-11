@@ -1,0 +1,16 @@
+C:\Users\Filipel\source\repos\Mini2\bin\Debug\net10.0-windows\Mini2.exe
+C:\Users\Filipel\source\repos\Mini2\bin\Debug\net10.0-windows\Mini2.deps.json
+C:\Users\Filipel\source\repos\Mini2\bin\Debug\net10.0-windows\Mini2.runtimeconfig.json
+C:\Users\Filipel\source\repos\Mini2\bin\Debug\net10.0-windows\Mini2.dll
+C:\Users\Filipel\source\repos\Mini2\bin\Debug\net10.0-windows\Mini2.pdb
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.Form1.resources
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.csproj.GenerateResource.cache
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.AssemblyInfoInputs.cache
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.AssemblyInfo.cs
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.csproj.CoreCompileInputs.cache
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.dll
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\refint\Mini2.dll
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.pdb
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\Mini2.genruntimeconfig.cache
+C:\Users\Filipel\source\repos\Mini2\obj\Debug\net10.0-windows\ref\Mini2.dll
